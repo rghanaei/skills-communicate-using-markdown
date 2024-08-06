@@ -25,5 +25,9 @@ int a = 0;
 int b = 10;
 printf("%i %i\n", a, b);
 ```
-
+# Make a to do list
+- [x] Edit file
+- [ ] Add image
+- [ ] Add code snipet
+      
 
